@@ -44,12 +44,6 @@ public class HomeActivity extends DebugActivity {
                 startActivity(intent);
                 break;
 
-            case R.id.btnTeste:
-
-                intent = new Intent(this, CommentsActivity.class);
-                startActivity(intent);
-                break;
-
             default:
                 Toast.makeText(this,"Opção inválida.",Toast.LENGTH_LONG).show();
                 break;
