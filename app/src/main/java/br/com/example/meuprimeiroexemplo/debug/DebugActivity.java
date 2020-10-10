@@ -8,7 +8,7 @@ import android.util.Log;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class DebugActivity extends AppCompatActivity {
-    protected static final String TAG = "fasam-dhionata";
+    protected static final String TAG = "lucas";
     protected void onCreate(Bundle icicle) {
         super.onCreate(icicle);
 
